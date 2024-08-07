@@ -1,5 +1,6 @@
 import './App.css'
 import Donut from './charts/Donut'
+import LineChart from './charts/LineChart'
 import NewDonut from './charts/NewDonut'
 
 
@@ -17,6 +18,8 @@ function App() {
       <NewDonut />
 
     </div>
+
+    <LineChart />
     
 
    </div>
